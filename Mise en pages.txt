@@ -1,0 +1,75 @@
+
+Site /
+Site
+
+<< | Page list | GroupList? >>
+
+This group (i.e. Site/) is about this site... e.g. how it is structured, organized and implemented, as well as ideas for how to improve it.
+
+Tip: See writing pages for tips about using this site.
+
+Pages in this group (included from PageList — edit PageList):
+
+    Homepage
+    Help pages
+        Help: Help and instructions for using this site
+        FAQ: Frequently Asked Questions concerning this site
+        Navigation: Finding your way around this site
+        Tips: Tips for using this site
+        AboutThisSite: Brief site description and technical information
+        Notify list?: Page Notify list?]] is undefined.
+        Files notify: This site uses a recipe called Cookbook:FilesNotify, which monitors changes to files in uploads:./.
+        SiteMap: Site overview
+        GroupMap?: Page Group Map?]] is undefined.
+            GroupList?: List of groups related to or about this site.
+            GroupCategories: Group categories
+            PageList: List of pages in the group Site 
+        AccessKeys: Using accesskeys (i.e. keyboard shortcuts) at this site
+        InterLinks: A quick way to refer to external URI:s
+        InterMap: Definition of InterMap prefixes.
+        Copyrights: About copyrights and this site
+        AboutListPages: About list pages...
+        WritingPages: Tips for writing pages to this site
+        AddingMaterial: Instructions and tips about adding material to this site
+            LocalMarkup: Local markup and WikiStyles
+            WikiStyles: Wiki styles used as at this site 
+        AboutUploading: Help about uploading files
+            PmWiki.UploadQuickReference?: Help page shown when uploading files 
+        AboutSidebar?: Page About Sidebar?]] is undefined. 
+    Contributors: Contributors to this site
+    SiteStructure: General structure of this site
+        SiteStructureNotes: Structure and organization of contents at this site
+        PageStructure?: Page Page Structure?]] is undefined.
+        PageTrailForNewbies?: Page Page Trail For Newbies?]] is undefined.
+        CreatingGroup: Notes about creating a new group for the LyX wiki.
+        Controlling web robots: Dealing with search robots. 
+    LocalConfiguration: Description of how this site is configured
+    Blocklist?: Page Blocklist?]] is undefined.
+    Miscellaneous:
+        History: History of the LyX wiki-wiki site
+        Announcement: The LyX wiki engine has been upgraded
+            AnnouncementOld: Page containing old announcements regarding the LyX wiki. 
+        Ideas: Ideas for improving this site
+            Discussion: A page for discussing this site 
+        ToDo: Things to do at this site
+        WikiSnapshot: Taking a "snapshot" of this site
+        SoftwarePatentProtest: Protest note against software patents in the EU 
+    RecentChanges: Recently changed pages in the group Site
+    RecentUploads?: Recently uploaded files to the group Site
+    GroupHeader?: Common header for pages in the group Site
+    Sidebar pages
+        About sidebar? for PmWiki 0.6 and later
+            SidebarNavigation?: The common Navigation-part of the sidebar
+            SidebarLyX?: The sidebar? for the LyX/-pages
+            SidebarSite?: The sidebar? for the Site/-pages
+            SidebarDevel?: The sidebar? for the Devel/-pages 
+        AboutSidebar? for PmWiki 0.5.x 
+    WebMenuDevel?: Sidebar for the Devel-pages?
+    WebMenuLyX?: Sidebar for the LyX-pages?
+    WebMenuPost?: Probably not used
+    WebMenuSite?: Sidebar for the Site-pages
+    UpgradeIssues: Notes about upgrading the wiki engine to pmwiki2.
+    InstallationDetails: Details about this wiki installation
+    About personal pages: About personal pages at this wiki 
+
+Edit - History - Print - Recent Changes - All Recent Changes - Search
